@@ -77,5 +77,5 @@ This data is used to provide feedback to the user and allows for a more engaging
 
 ## Feedback
 
-If you have any feedback, please reach out to us at abdoo.owais@gmail.com
+If you have any feedback, please reach out to me at abdoo.owais@gmail.com
 
